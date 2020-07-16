@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/moto-info/static/css/main.598f49b4.chunk.css",
+    "main.js": "/moto-info/static/js/main.bf22a8d8.chunk.js",
+    "main.js.map": "/moto-info/static/js/main.bf22a8d8.chunk.js.map",
+    "runtime-main.js": "/moto-info/static/js/runtime-main.1895315a.js",
+    "runtime-main.js.map": "/moto-info/static/js/runtime-main.1895315a.js.map",
+    "static/js/2.599c6a75.chunk.js": "/moto-info/static/js/2.599c6a75.chunk.js",
+    "static/js/2.599c6a75.chunk.js.map": "/moto-info/static/js/2.599c6a75.chunk.js.map",
+    "index.html": "/moto-info/index.html",
+    "precache-manifest.9202fd9a7a9048a7fe79848f7c87be82.js": "/moto-info/precache-manifest.9202fd9a7a9048a7fe79848f7c87be82.js",
+    "service-worker.js": "/moto-info/service-worker.js",
+    "static/css/main.598f49b4.chunk.css.map": "/moto-info/static/css/main.598f49b4.chunk.css.map",
+    "static/js/2.599c6a75.chunk.js.LICENSE.txt": "/moto-info/static/js/2.599c6a75.chunk.js.LICENSE.txt",
+    "static/media/CompressionRatio.png": "/moto-info/static/media/CompressionRatio.539603f0.png",
+    "static/media/StrokeCycle.jpg": "/moto-info/static/media/StrokeCycle.c2dc018b.jpg",
+    "static/media/boxer.jpg": "/moto-info/static/media/boxer.bbbf0917.jpg",
+    "static/media/infour.gif": "/moto-info/static/media/infour.344a6ab3.gif",
+    "static/media/ivsp.webp": "/moto-info/static/media/ivsp.66d0056e.webp",
+    "static/media/single.jpg": "/moto-info/static/media/single.b844f884.jpg",
+    "static/media/vtwin.jpg": "/moto-info/static/media/vtwin.a845a1b2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1895315a.js",
+    "static/js/2.599c6a75.chunk.js",
+    "static/css/main.598f49b4.chunk.css",
+    "static/js/main.bf22a8d8.chunk.js"
+  ]
+}
