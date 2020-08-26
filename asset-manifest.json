@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moto-info/static/css/main.e18e0308.chunk.css",
+    "main.css": "/moto-info/static/css/main.9df04af2.chunk.css",
     "main.js": "/moto-info/static/js/main.bb309470.chunk.js",
     "main.js.map": "/moto-info/static/js/main.bb309470.chunk.js.map",
     "runtime-main.js": "/moto-info/static/js/runtime-main.1895315a.js",
@@ -8,9 +8,9 @@
     "static/js/2.599c6a75.chunk.js": "/moto-info/static/js/2.599c6a75.chunk.js",
     "static/js/2.599c6a75.chunk.js.map": "/moto-info/static/js/2.599c6a75.chunk.js.map",
     "index.html": "/moto-info/index.html",
-    "precache-manifest.029b97cccbbb1924c51f7b4f340f6018.js": "/moto-info/precache-manifest.029b97cccbbb1924c51f7b4f340f6018.js",
+    "precache-manifest.cdc472db0eafdf68e96bade2ee20fbfe.js": "/moto-info/precache-manifest.cdc472db0eafdf68e96bade2ee20fbfe.js",
     "service-worker.js": "/moto-info/service-worker.js",
-    "static/css/main.e18e0308.chunk.css.map": "/moto-info/static/css/main.e18e0308.chunk.css.map",
+    "static/css/main.9df04af2.chunk.css.map": "/moto-info/static/css/main.9df04af2.chunk.css.map",
     "static/js/2.599c6a75.chunk.js.LICENSE.txt": "/moto-info/static/js/2.599c6a75.chunk.js.LICENSE.txt",
     "static/media/CompressionRatio.png": "/moto-info/static/media/CompressionRatio.539603f0.png",
     "static/media/StrokeCycle.jpg": "/moto-info/static/media/StrokeCycle.c2dc018b.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.1895315a.js",
     "static/js/2.599c6a75.chunk.js",
-    "static/css/main.e18e0308.chunk.css",
+    "static/css/main.9df04af2.chunk.css",
     "static/js/main.bb309470.chunk.js"
   ]
 }
