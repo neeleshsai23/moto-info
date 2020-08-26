@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d3263723dce950dbde746a3aa9ce534",
+    "revision": "a71493ae861477f065cafd7a7ca62d65",
     "url": "/moto-info/index.html"
   },
   {
-    "revision": "67a3cedba0b0bcd78a7d",
-    "url": "/moto-info/static/css/main.598f49b4.chunk.css"
+    "revision": "e6dbb3ab5c9e5cdaa787",
+    "url": "/moto-info/static/css/main.e18e0308.chunk.css"
   },
   {
     "revision": "f992c1fdcc9ee2650699",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moto-info/static/js/2.599c6a75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67a3cedba0b0bcd78a7d",
-    "url": "/moto-info/static/js/main.bf22a8d8.chunk.js"
+    "revision": "e6dbb3ab5c9e5cdaa787",
+    "url": "/moto-info/static/js/main.bb309470.chunk.js"
   },
   {
     "revision": "51a6654f50971b432412",
