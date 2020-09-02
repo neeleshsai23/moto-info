@@ -24,7 +24,7 @@ class Navbar extends Component {
       <div>
         <nav className='nav-bar'>
           <div className='navitem'>
-            <NavLink exact to='/moto-info' className='navlink'>
+            <NavLink exact strict to='/' className='navlink'>
               Home
             </NavLink>
           </div>
