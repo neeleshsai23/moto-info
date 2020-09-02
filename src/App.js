@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { HashRouter, NavLink, Route } from 'react-router-dom';
+import { BrowserRouter, NavLink, Route } from 'react-router-dom';
 
 import Navbar from './navbar';
 import Home from './home';
@@ -15,7 +15,7 @@ import Mods from './components/mods';
 class App extends Component {
   render() {
     return (
-      <HashRouter>
+      <BrowserRouter>
         <div>
           <Navbar />
 
@@ -32,7 +32,7 @@ class App extends Component {
             <Route path='/mods' component={Mods} />
           </div>
         </div>
-      </HashRouter>
+      </BrowserRouter>
     );
   }
 }
