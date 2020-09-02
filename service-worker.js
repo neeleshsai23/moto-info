@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moto-info/precache-manifest.fb5a5ae8169e8a574d97a253a92c591d.js"
+  "/moto-info/precache-manifest.7874b6086db0add5f0a466f2d2114a2d.js"
 );
 
 self.addEventListener('message', (event) => {
