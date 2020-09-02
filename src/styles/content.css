@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  line-height: 1.5;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+}
+
+/*Main Page Styles*/
+
+.homecontainer {
+  background: linear-gradient(45deg, #f8e241, #04fcff);
+  position: absolute;
+  margin-top: 8vh;
+  height: 92vh;
+  width: 100vw;
+  display: grid;
+  place-items: center;
+}
+
+.homecontent {
+  height: 70vh;
+  width: 60vw;
+  -webkit-box-shadow: 0 0 10px 5px #ff6666;
+  box-shadow: 0 0 10px 5px #ff6666;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 10px 20px;
+}
+
+.text {
+  text-align: center;
+}
+
+.container-fluid {
+  position: absolute;
+  width: 100vw;
+  margin-top: 8vh;
+  padding: 40px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  height: auto;
+  width: 90vw;
+  box-shadow: 0 0 10px 5px lightgray;
+  padding: 10px 20px;
+}
+
+.homecontent h1 {
+  color: white;
+}
+
+h4 {
+  font-size: 1.1em;
+  color: #ff6666;
+}
+
+h5 {
+  font-size: 1.1em;
+  margin-bottom: 0;
+}
+
+h6 {
+  font-size: 1em;
+  margin-bottom: 0;
+}
+
+.img-fluid {
+  margin-top: 20px;
+  width: 600px;
+  height: 400px;
+}
+
+.content {
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+}
+
+.liststyle h5,
+.liststyle a {
+  display: block;
+}
+
+input {
+  width: 70px;
+  border: 1px solid black;
+}
+
+.calcbtn {
+  background-color: #ff6666;
+  border: none;
+  outline: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+@media (max-width: 1100px) {
+  body {
+    margin: 0;
+    overflow-x: hidden;
+  }
+
+  .homecontainer {
+    margin-top: 0;
+    height: 100vh;
+  }
+
+  .homecontent {
+    width: 80vw;
+  }
+
+  .container-fluid {
+    margin-top: 5vh;
+  }
+
+  .container {
+    width: 80vw;
+  }
+
+  .text {
+    text-align: left;
+  }
+
+  .img-fluid {
+    width: 80vw;
+    height: 200px;
+  }
+}
