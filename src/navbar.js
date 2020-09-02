@@ -73,18 +73,11 @@ class Navbar extends Component {
         </button>
         <nav className='navbar-mobile'>
           <div id='mobilenav' className='navdiv-mobile'>
-            <NavLink
-              exact
-              to='/'
-              className='navlink-mobile'
-              onClick={this.closenav}
-            >
+            <NavLink to='/' className='navlink-mobile' onClick={this.closenav}>
               Home
             </NavLink>
 
             <NavLink
-              exact
-              strict
               to='/basics'
               className='navlink-mobile'
               onClick={this.closenav}
