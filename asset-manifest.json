@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/moto-info/static/css/main.77cbfef6.chunk.css",
-    "main.js": "/moto-info/static/js/main.de68e2f4.chunk.js",
-    "main.js.map": "/moto-info/static/js/main.de68e2f4.chunk.js.map",
+    "main.js": "/moto-info/static/js/main.63093eac.chunk.js",
+    "main.js.map": "/moto-info/static/js/main.63093eac.chunk.js.map",
     "runtime-main.js": "/moto-info/static/js/runtime-main.1895315a.js",
     "runtime-main.js.map": "/moto-info/static/js/runtime-main.1895315a.js.map",
-    "static/js/2.ae15a3b6.chunk.js": "/moto-info/static/js/2.ae15a3b6.chunk.js",
-    "static/js/2.ae15a3b6.chunk.js.map": "/moto-info/static/js/2.ae15a3b6.chunk.js.map",
+    "static/js/2.34ec16ec.chunk.js": "/moto-info/static/js/2.34ec16ec.chunk.js",
+    "static/js/2.34ec16ec.chunk.js.map": "/moto-info/static/js/2.34ec16ec.chunk.js.map",
     "index.html": "/moto-info/index.html",
-    "precache-manifest.8840f4b2e36a8c2b949277b8b6686909.js": "/moto-info/precache-manifest.8840f4b2e36a8c2b949277b8b6686909.js",
+    "precache-manifest.211f562d02334052d0d7054b4db83228.js": "/moto-info/precache-manifest.211f562d02334052d0d7054b4db83228.js",
     "service-worker.js": "/moto-info/service-worker.js",
     "static/css/main.77cbfef6.chunk.css.map": "/moto-info/static/css/main.77cbfef6.chunk.css.map",
-    "static/js/2.ae15a3b6.chunk.js.LICENSE.txt": "/moto-info/static/js/2.ae15a3b6.chunk.js.LICENSE.txt",
+    "static/js/2.34ec16ec.chunk.js.LICENSE.txt": "/moto-info/static/js/2.34ec16ec.chunk.js.LICENSE.txt",
     "static/media/CompressionRatio.png": "/moto-info/static/media/CompressionRatio.539603f0.png",
     "static/media/StrokeCycle.jpg": "/moto-info/static/media/StrokeCycle.c2dc018b.jpg",
     "static/media/boxer.jpg": "/moto-info/static/media/boxer.bbbf0917.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1895315a.js",
-    "static/js/2.ae15a3b6.chunk.js",
+    "static/js/2.34ec16ec.chunk.js",
     "static/css/main.77cbfef6.chunk.css",
-    "static/js/main.de68e2f4.chunk.js"
+    "static/js/main.63093eac.chunk.js"
   ]
 }
