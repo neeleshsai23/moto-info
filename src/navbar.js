@@ -24,13 +24,13 @@ class Navbar extends Component {
       <div>
         <nav className='nav-bar'>
           <div className='navitem'>
-            <NavLink to='/' className='navlink'>
+            <NavLink exact to='/' className='navlink'>
               Home
             </NavLink>
           </div>
 
           <div className='navitem'>
-            <NavLink exact strict to='/basics' className='navlink'>
+            <NavLink to='/basics' className='navlink'>
               Basics
             </NavLink>
           </div>
