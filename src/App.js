@@ -20,7 +20,7 @@ class App extends Component {
           <Navbar />
 
           <div>
-            <Route exact path='/' component={Home} />
+            <Route path='/' component={Home} />
             <Route path='/basics' component={Basics} />
             <Route path='/engines' component={Single} />
             <Route path='/single' component={Single} />
